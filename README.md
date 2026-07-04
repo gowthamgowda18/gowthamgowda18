@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: AI/ML Python
 - 🤔 I’m looking for help with : Team work Upon Projects
 - 💬 Ask me about: Building Creative Applications , AI/ML , Cyber Security
-- 📫 How to reach me: gowtham2332008@gamil.com
+- 📫 How to reach me: gowtham26332008@gamil.com
 - 😄 Pronouns: Gowtham Gowda
 
 # 💫 About Me:
@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@gowtham gowda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_gowtham__gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Gowthamgowda265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowtham265332008@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@gowthamgowda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_gowtham__gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Gowthamgowda265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowtham265332008@gmail.com) 
 
 # 💻 Tech Stack:
 
