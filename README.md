@@ -8,7 +8,7 @@
    - 🤔 I’m looking for help with : Team work Upon             Projects
    - 💬 Ask me about: Building Creative                      Applications , AI/ML , Cyber Security
    - 📫 How to reach me: gowtham26332008@gamil.com
-   - 😄 Pronouns: Gowtham Gowda
+   - 😄 Find My Projects In @Github
 
 # 💫 About Me:
 
