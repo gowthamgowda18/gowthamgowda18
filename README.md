@@ -1,14 +1,14 @@
-<h1>HI I'am Gowtham Gowda </h1> 
-
-<h4>A Passionate Developer From INDIA🇮🇳</h4>
+<u><h1>HI I'am Gowtham Gowda </h1> </u>
+<br>
+<b><h4>A Passionate Developer From INDIA🇮🇳</h4></b>
      
 
    - 🔭 I’m currently Jobless
    - 🌱 I’m currently learning: AI/ML Python
-   - 🤔 I’m looking for help with : Team work Upon             Projects
-   - 💬 Ask me about: Building Creative                      Applications , AI/ML , Cyber Security
+   - 🤔 I’m looking for help with : Team work Upon Projects
+   - 💬 Ask me about: Building Creative Applications , AI/ML , Cyber Security
    - 📫 How to reach me: gowtham26332008@gamil.com
-   - 😄 Find My Projects In Github
+   - 😄 Find My Projects In https://github.com/gowthamgowda18
 
 # 💫 About Me:
 
