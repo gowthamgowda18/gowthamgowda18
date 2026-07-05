@@ -25,9 +25,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Gowthamgowda-1653&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gowthamgowda-1653&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gowthamgowda-1653&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=gowthammgowda&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=gowthammgowda&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gowthammgowda&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
