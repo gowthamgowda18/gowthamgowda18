@@ -10,7 +10,7 @@
    - 🌱 I’m currently learning: AI/ML Python
    - 🤔 I’m looking for help with : Team work Upon Projects
    - 💬 Ask me about: Building Creative Applications , AI/ML , Cyber Security
-   - 📫 How to reach me: gowtham26332008@gamil.com
+   - 📫 How to reach me: <a href="mailto:gowtham265332008@gmail.com">Gmail</a>
    - 😄 Find My Projects In <a href="https://github.com/gowthamgowda18" target="_blank">Github </a>
 
 # 💫 About Me:
