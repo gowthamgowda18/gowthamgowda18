@@ -1,6 +1,9 @@
 <u><h1>HI I'am Gowtham Gowda </h1> </u>
-<br>
-<b><h4><pre>          A Passionate Developer From INDIA🇮🇳</pre></h4></b>
+
+<b>
+<h4> <pre>          A Passionate Developer From INDIA🇮🇳  </pre>
+</h4>
+</b>
      
 
    - 🔭 I’m currently Jobless
