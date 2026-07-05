@@ -11,7 +11,7 @@
    - 🤔 I’m looking for help with : Team work Upon Projects
    - 💬 Ask me about: Building Creative Applications , AI/ML , Cyber Security
    - 📫 How to reach me: gowtham26332008@gamil.com
-   - 😄 Find My Projects In https://github.com/gowthamgowda18
+   - 😄 Find My Projects In <a herf="https://github.com/gowthamgowda18" target="_blank">Github</a>
 
 # 💫 About Me:
 
