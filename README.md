@@ -1,7 +1,7 @@
 <u><h1>HI I'am Gowtham Gowda </h1> </u>
 
 <b>
-<h4> <pre>          A Passionate Developer From INDIA🇮🇳  </pre>
+<h4>          A Passionate Developer From INDIA 🇮🇳  
 </h4>
 </b>
      
